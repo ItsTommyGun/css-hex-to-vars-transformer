@@ -27,7 +27,6 @@
     "bin/**/*"
   ],
   "dependencies": {
-    "chalk": "^4.1.2",
-    "read-file": "^0.2.0"
-  }  
+    "chalk": "^4.1.2"
+  }
 }
