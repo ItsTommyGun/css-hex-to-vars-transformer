@@ -22,6 +22,8 @@ Run this on your terminal:
 ```
 
 ### Example Output
+Output files will be inside `/dist-vars`.
+
 example.css
 ```css
 .aclass {
