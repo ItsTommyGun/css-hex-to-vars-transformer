@@ -1,4 +1,4 @@
-# CSS hex to vars reducer
+# CSS hex to vars transformer
 
 A fun project to publish a first open source npm package!
 
@@ -9,7 +9,7 @@ Outputs the reworked css file and an extra `variables.css`.
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i css-hex-to-vars-reducer --save
+$ npm i css-hex-to-vars-transformer --save
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ Currently the tool is just meant to be run directly on cli.
 
 Run this on your terminal:
 ```sh
-> ./node_modules/.bin/css-hex-to-vars-reducer PATH_TO_YOUR_CSS_FILE
+> ./node_modules/.bin/css-hex-to-vars-transformer PATH_TO_YOUR_CSS_FILE
 ```
 
 ### Example Output

@@ -1,6 +1,6 @@
 {
-  "name": "css-hex-to-vars-reducer",
-  "version": "0.0.2",
+  "name": "css-hex-to-vars-transformer",
+  "version": "0.0.3",
   "bin": "./bin/run.js",
   "description": "A tool to find all hex codes in your css file, which will then be combined and converted to css variables.",
   "main": "index.js",
