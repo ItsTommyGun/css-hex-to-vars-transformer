@@ -1,0 +1,33 @@
+{
+  "name": "css-hex-to-vars-reducer",
+  "version": "0.0.2",
+  "bin": "./bin/run.js",
+  "description": "A tool to find all hex codes in your css file, which will then be combined and converted to css variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.js\""
+  },
+  "keywords": [
+    "css",
+    "variables",
+    "hex",
+    "converter",
+    "reducer"
+  ],
+  "author": "Thomas Fischer",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.30.0",
+    "prettier": "^2.8.1"
+  },
+  "files": [
+    "bin/**/*"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "read-file": "^0.2.0"
+  }  
+}

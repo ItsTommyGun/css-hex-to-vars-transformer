@@ -1,0 +1,6 @@
+src
+package*
+.prettierrc
+.eslintrc.json
+.gitignore
+.npmignore

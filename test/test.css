@@ -1,0 +1,21 @@
+.aclass {
+  background: #ffffff;
+}
+
+.bclass {
+  background: #ffffff;
+}
+
+.cclass {
+  background: #000000;
+}
+
+.dclass {
+  color: #abcdef;
+  background: #000000;
+}
+
+.eclass {
+  background: #dddfff;
+  color: #aaabbb;
+}
