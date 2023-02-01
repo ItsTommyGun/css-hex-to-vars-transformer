@@ -89,7 +89,7 @@ variables.css
 
 ## Contributing
 
-Pull requests are welcome!
+Pull requests and ideas are welcome! You can find the repo [here](https://github.com/ItsTommyGun/css-hex-to-vars-transformer).
 
 ## Author
 
